@@ -169,6 +169,8 @@ Bounds for which the level of available verification is currently at minimal lev
 - [19](https://teorth.github.io/optimizationproblems/constants/19a.html) **improved upper bound (unverified):** $C_{19} \leq 0.4395*$ by [H. Xiao and C. Li](https://github.com/haonan-xiao/iid-berry-esseen), 10 Sep 2026.
 - [19](https://teorth.github.io/optimizationproblems/constants/19a.html) **improved upper bound (unverified):** $C_{19} \leq 0.423*$ by [Y. Lin](https://github.com/CoolRmal/BerryEsseen), 13 Sep 2026.
 
+- [45](https://teorth.github.io/optimizationproblems/constants/45a.html) **presentation:** the printed certificate is Griego's $0.490249407811155$, not Yoo's record $0.490180063290061$.
+
 ## Maintainers
 
 This site is maintained by Damek Davis, Paata Ivanisvili and Terence Tao.
