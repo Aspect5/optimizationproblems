@@ -82,7 +82,7 @@ Bounds for which the level of available verification is currently at minimal lev
 | [44](https://teorth.github.io/optimizationproblems/constants/44a.html) | Maximal number of relevant variables in Boolean functions of degree $d$ | 1.5 | 4.394 |
 | [45](https://teorth.github.io/optimizationproblems/constants/45a.html) | Density of odd integers that are the sum of a prime and a power of two | 0.107648 | 0.490180063290061 |
 | [46](https://teorth.github.io/optimizationproblems/constants/46a.html) | Fourier restriction constant for the 2-sphere | 3 |  $\frac{22}{7}\approx 3.142857$  |
-| [47](https://teorth.github.io/optimizationproblems/constants/47a.html) | Centered Hardy-Littlewood maximal constant in dimension $2$ | $\frac{3}{4}-\frac{\sqrt{2}}{4}+\frac{\sqrt{6}}{2}\approx 1.6211915$ | 4 |
+| [47](https://teorth.github.io/optimizationproblems/constants/47a.html) | Centered Hardy-Littlewood maximal constant in dimension $2$ | 1.68550999 | 3.879 |
 | [48](https://teorth.github.io/optimizationproblems/constants/48a.html) | One-dimensional convex sub-Gaussian comparison constant | $\approx 5.33386$ | $\approx 5.33386$ |
 | [49](https://teorth.github.io/optimizationproblems/constants/49a.html) | Erdős–Szemerédi $3$-sunflower-free capacity | >1.551 ($\geq 1.554*$) | $\frac{3}{2^{2/3}} \approx 1.88988$ |
 | [50](https://teorth.github.io/optimizationproblems/constants/50a.html) | Approximation ratio for quantum Max Cut | 0.614 | $<1$ (0.5 for product states) |
@@ -172,6 +172,8 @@ Bounds for which the level of available verification is currently at minimal lev
 - [3c](https://teorth.github.io/optimizationproblems/constants/3c.html) **improved lower bound (unverified):** $C_{3c} \geq 1.6747338950414058*$ by Y. Lin, [entropy certificate](https://gist.github.com/CoolRmal/5368357cd781d7e5c676c9d68ad24d22) on a 147-point support, 9 Sep 2026.
 - [19](https://teorth.github.io/optimizationproblems/constants/19a.html) **improved upper bound (unverified):** $C_{19} \leq 0.4395*$ by [H. Xiao and C. Li](https://github.com/haonan-xiao/iid-berry-esseen), 10 Sep 2026.
 - [19](https://teorth.github.io/optimizationproblems/constants/19a.html) **improved upper bound (unverified):** $C_{19} \leq 0.423*$ by [Y. Lin](https://github.com/CoolRmal/BerryEsseen), 13 Sep 2026.
+- [47](https://teorth.github.io/optimizationproblems/constants/47a.html) **improved lower bound:** $C_{47} \geq 1.68550999$ by [Y. Lin](https://github.com/CoolRmal/centered-maximal-constant), 19 Sep 2026, with a Lean 4 formalization registered on Palomar.
+- [47](https://teorth.github.io/optimizationproblems/constants/47a.html) **improved upper bound:** $C_{47} \leq 3.879$ by [Y. Lin](https://github.com/CoolRmal/centered-maximal-constant), 20 Sep 2026, formalized in Lean 4.
 - [45](https://teorth.github.io/optimizationproblems/constants/45a.html) **presentation:** the printed certificate is Griego's $0.490249407811155$, not Yoo's record $0.490180063290061$.
 - [10c](https://teorth.github.io/optimizationproblems/constants/10c.html) **upper bound correction:** $C_{10c}\le 4.1$ by [Pesenti–Vladu](https://arxiv.org/abs/2211.05509) v2 (14 Apr 2026), replacing the withdrawn $3\sqrt{3/2}$ constant in Theorem 4.5.
 
