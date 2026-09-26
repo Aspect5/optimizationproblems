@@ -30,7 +30,7 @@ Bounds for which the level of available verification is currently at minimal lev
 | [7a](https://teorth.github.io/optimizationproblems/constants/7a.html) | Irrationality measure of $\pi$ | 2 | 7.103205334137 |
 | [7b](https://teorth.github.io/optimizationproblems/constants/7b.html) | Irrationality measure of $\Gamma(1/4)$ | 2 | $10^{143}$ |
 | [8](https://teorth.github.io/optimizationproblems/constants/8a.html) | Classical zero-free region constant | 0.755106 | 4.896 |
-| [9](https://teorth.github.io/optimizationproblems/constants/9a.html) | Shannon capacity of the 7-cycle | 3.2578 | 3.3177 |
+| [9](https://teorth.github.io/optimizationproblems/constants/9a.html) | Shannon capacity of the 7-cycle | 3.25883262 | 3.3177 |
 | [10a](https://teorth.github.io/optimizationproblems/constants/10a.html) | The real Grothendieck constant | $\frac{6\pi}{11}\approx 1.71360$ | $\frac{\pi}{2\log(1+\sqrt{2})} - 10^{-4} \approx 1.78211$ |
 | [10b](https://teorth.github.io/optimizationproblems/constants/10b.html) | The complex Grothendieck constant | 1.338 | 1.40491 |
 | [10c](https://teorth.github.io/optimizationproblems/constants/10c.html) | Spencer discrepancy constant (“six standard deviations suffice”) | 1.767767 | 3.674235 (3.65*) |
@@ -160,6 +160,10 @@ Bounds for which the level of available verification is currently at minimal lev
 - [59](https://teorth.github.io/optimizationproblems/constants/59a.html) **improved upper bound:** $C\_{59}=K\_2<0.302825279492$ by [Shivam Patel](https://mathdb.com/p/392062/exact-value-of-the-bohr-radius-of-the-bidisc#s2), 26 Aug 2026.
 - [43](https://teorth.github.io/optimizationproblems/constants/43a.html) **improved lower bound (unverified):** $C_{43} \geq 0.860*$ (exact $43/50$; certificate-layer result conditional on the lemma set of [KHSHGW2026](https://arxiv.org/abs/2601.22365)) by [J. Savva](https://doi.org/10.5281/zenodo.22223485), 1 Sep 2026.
 - [88a](https://teorth.github.io/optimizationproblems/constants/88a.html) **improved upper bound:** $C_{88a} \leq 186$ via $\mathrm{DHL}[40,2]$, by [OpenAI](https://cdn.openai.com/pdf/51126fac-1b68-4128-9666-c908bcc16033/short_gaps.pdf), 30 Aug 2026, with a Lean 4 formalization conditional on three declared axioms.
+- [9](https://teorth.github.io/optimizationproblems/constants/9a.html) **improved lower bound:** $C_{9} \ge 134753^{1/10} \approx 3.258020$ by [N. Itty, C. D. Rosin, C. Carstensen, D. Reichman](https://arxiv.org/abs/2607.21517), 23 Jul 2026.
+- [9](https://teorth.github.io/optimizationproblems/constants/9a.html) **improved lower bound:** $C_{9} \ge 3.258789153908\ldots$ by [Y. Gao](https://arxiv.org/abs/2607.27869), 30 Jul 2026.
+- [9](https://teorth.github.io/optimizationproblems/constants/9a.html) **improved lower bound:** $C_{9} \ge 3.258805369885\ldots$ by [P. Buys, S. Polak, J. Zuiddam](https://arxiv.org/abs/2607.29681), 31 Jul 2026, with a Lean 4 formalization.
+- [9](https://teorth.github.io/optimizationproblems/constants/9a.html) **improved lower bound:** $C_{9} \ge 3.25883262\ldots$ by [R. Tandon](https://arxiv.org/abs/2608.30273), 31 Aug 2026.
 - [4b](https://teorth.github.io/optimizationproblems/constants/4b.html) **attribution correction:** the $205/12$ lower bound $C_{4b}\ge 0.733412$ is due to [R. Beigel and W. Gasarch](https://arxiv.org/abs/0804.4892), 2008; the same exponent was later published independently by [M. Lewko](https://doi.org/10.37236/4656), 2015.
 - [3c](https://teorth.github.io/optimizationproblems/constants/3c.html) **improved lower bound (unverified):** $C_{3c} \geq 1.6747338950414058*$ by Y. Lin, [entropy certificate](https://gist.github.com/CoolRmal/5368357cd781d7e5c676c9d68ad24d22) on a 147-point support, 9 Sep 2026.
 - [19](https://teorth.github.io/optimizationproblems/constants/19a.html) **improved upper bound (unverified):** $C_{19} \leq 0.4395*$ by [H. Xiao and C. Li](https://github.com/haonan-xiao/iid-berry-esseen), 10 Sep 2026.
