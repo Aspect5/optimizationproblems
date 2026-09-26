@@ -45,7 +45,7 @@ Bounds for which the level of available verification is currently at minimal lev
 | [16](https://teorth.github.io/optimizationproblems/constants/16a.html) | Brezis–Gallouet–Wainger remainder constant on the 2D torus | $\frac{\beta + \pi}{\pi} \approx 1.82283$ | $\approx 2.15627$ |
 | [17](https://teorth.github.io/optimizationproblems/constants/17a.html) | Exponential growth constant of diagonal Ramsey numbers | $\sqrt{2} \approx 1.4142$ | 3.7919936995 |
 | [18](https://teorth.github.io/optimizationproblems/constants/18a.html) | Marton's conjecture constant (PFR) | 1 | 9 |
-| [19](https://teorth.github.io/optimizationproblems/constants/19a.html) | Berry–Esseen constant | 0.4097321837 | 0.4690 |
+| [19](https://teorth.github.io/optimizationproblems/constants/19a.html) | Berry–Esseen constant | 0.4097321837 | 0.4690 (0.423*) |
 | [20a](https://teorth.github.io/optimizationproblems/constants/20a.html) | Thin shell conjecture constant | 2 | $< \infty$ |
 | [20b](https://teorth.github.io/optimizationproblems/constants/20b.html) | Isotropic constant of a log-concave probability measure | $1/e$ | $< \infty$ |
 | [20c](https://teorth.github.io/optimizationproblems/constants/20c.html) | KLS constant for log-concave probability measures | $\sqrt{\pi/2} \approx 1.25331$ | $\infty$ |
@@ -162,6 +162,8 @@ Bounds for which the level of available verification is currently at minimal lev
 - [88a](https://teorth.github.io/optimizationproblems/constants/88a.html) **improved upper bound:** $C_{88a} \leq 186$ via $\mathrm{DHL}[40,2]$, by [OpenAI](https://cdn.openai.com/pdf/51126fac-1b68-4128-9666-c908bcc16033/short_gaps.pdf), 30 Aug 2026, with a Lean 4 formalization conditional on three declared axioms.
 - [4b](https://teorth.github.io/optimizationproblems/constants/4b.html) **attribution correction:** the $205/12$ lower bound $C_{4b}\ge 0.733412$ is due to [R. Beigel and W. Gasarch](https://arxiv.org/abs/0804.4892), 2008; the same exponent was later published independently by [M. Lewko](https://doi.org/10.37236/4656), 2015.
 - [3c](https://teorth.github.io/optimizationproblems/constants/3c.html) **improved lower bound (unverified):** $C_{3c} \geq 1.6747338950414058*$ by Y. Lin, [entropy certificate](https://gist.github.com/CoolRmal/5368357cd781d7e5c676c9d68ad24d22) on a 147-point support, 9 Sep 2026.
+- [19](https://teorth.github.io/optimizationproblems/constants/19a.html) **improved upper bound (unverified):** $C_{19} \leq 0.4395*$ by [H. Xiao and C. Li](https://github.com/haonan-xiao/iid-berry-esseen), 10 Sep 2026.
+- [19](https://teorth.github.io/optimizationproblems/constants/19a.html) **improved upper bound (unverified):** $C_{19} \leq 0.423*$ by [Y. Lin](https://github.com/CoolRmal/BerryEsseen), 13 Sep 2026.
 
 ## Maintainers
 
